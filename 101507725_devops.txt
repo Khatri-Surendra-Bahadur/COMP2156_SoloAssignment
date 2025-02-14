@@ -1,0 +1,1 @@
+COMP2156 - DevOps for System Administration is a course that covers Git, CI/CD pipelines, cloud computing, and infrastructure as code.
